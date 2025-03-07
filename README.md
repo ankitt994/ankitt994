@@ -49,5 +49,3 @@ Skilled in **SQL**, **Python**, and **Power BI**
 ---
 
 ### 🚀 **Let’s discuss data analytics, business intelligence, and Power BI!**  
-
-This version makes it **clear, visually appealing, and job-ready** while showcasing **your skills, tools, and impact** in a professional way. Let me know if you want further refinements! 🚀
