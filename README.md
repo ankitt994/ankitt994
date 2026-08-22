@@ -1,51 +1,113 @@
-👋 Hi, I'm Ankit Tripathi!  
+# Hi, I'm Ankit Tripathi 👋
 
-Aspiring **Data Analyst** | Passionate about transforming raw data into meaningful insights 🔍  
-Skilled in **SQL**, **Python**, and **Power BI**  
+### Data Analyst | SQL • Power BI • Excel • Python
 
----
+I work with data to turn **raw business information into actionable insights**. My focus is on solving business problems through data cleaning, SQL analysis, reporting, dashboarding, and data storytelling.
 
-## 🧑‍💻 About Me  
-🎓 A self-motivated professional with expertise in **data analysis and visualization**.  
-📍 Based in **Bangalore** | Open to **freelance/remote opportunities**.  
-💡 Love solving **business problems** and optimizing **workflows** through data-driven insights.  
+📍 Bangalore, India  
+🎯 **Career Focus:** Data Analyst / Business Analyst / MIS & Reporting Analyst
 
 ---
 
-## 🛠️ Skills  
-### Programming Languages and Tools:  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=microsoftsqlserver&logoColor=white)  
-- ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)  
-- ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  
+## 🧰 Core Skills
+
+| Area | Skills |
+|---|---|
+| **SQL** | Joins, CTEs, Window Functions, Subqueries, Aggregations, Data Cleaning |
+| **Power BI** | DAX, Data Modeling, Power Query, KPI Design, Interactive Dashboards |
+| **Excel** | Advanced Excel, Power Query, Pivot Tables, Power Pivot, VBA, Dashboards |
+| **Python** | Pandas, NumPy, Data Cleaning, EDA, Data Visualization |
+| **Analytics** | KPI Analysis, Trend Analysis, Root-Cause Analysis, Business Insights |
 
 ---
 
-## 📊 Projects  
+## 📊 Featured Data Analytics Projects
 
-### 🚀 [Business Insights 360 - Power BI Dashboard](https://github.com/ankitt994/Business-Insights-360)  
-📊 **Objective**: Built a **data-driven dashboard** to help AtliQ Hardware optimize **Finance, Sales, Marketing, and Supply Chain** decisions.  
-🔹 **Key Insights**: Identified **profit optimization**, **market expansion**, and **supply chain improvements**.  
-🛠 **Tools Used**: **Power BI**, **SQL (MySQL)**, **Excel**, **DAX**  
-📊 **Skills Gained**: **Data Modeling, DAX, Business Strategy, Forecasting**  
+### 🚀 [Business Insights 360](https://github.com/ankitt994/Business-Insights-360)
+**Power BI • SQL • DAX • Power Query • Data Modeling**
 
-🔗 **[View Project](https://github.com/ankitt994/Business-Insights-360)**  
+A 360° business intelligence dashboard covering **Finance, Sales, Marketing, and Supply Chain**. The project focuses on transforming business data into decision-ready insights around revenue, profitability, market performance, discounts, and supply-chain efficiency.
 
----
-
-### 📈 [Excel Sales Analytics](https://github.com/ankitt994/Excel-Sales-Analytics)  
-📊 **Objective**: Developed an **interactive Excel dashboard** for tracking **sales KPIs** and performance trends.  
-🛠 **Tools Used**: Microsoft Excel, Pivot Tables, Charts  
-📊 **Skills Gained**: **Data Cleaning, Dashboarding, KPI Analysis**  
-
-🔗 **[View Project](https://github.com/ankitt994/Excel-Sales-Analytics)**  
+**Key skills demonstrated:** Star-schema modeling, advanced DAX, Power Query, KPI design, interactive dashboards, and business storytelling.
 
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathiii)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ankitt994)  
+### 🧮 [AtliQ Hardware Ad-Hoc Analysis](https://github.com/ankitt994/atliq-hardware-ad-hoc-analysis)
+**SQL • Business Analysis**
+
+An SQL-based business analysis project focused on answering real-world management questions using structured data.
+
+**Key skills demonstrated:** Complex SQL queries, joins, aggregations, business metrics, and translating business questions into analytical queries.
 
 ---
 
-### 🚀 **Let’s discuss data analytics, business intelligence, and Power BI!**  
+### 🛒 [Customer Shopping Behavior Analysis](https://github.com/ankitt994/Customer-Shopping-Behavior-Analysis)
+**Python • Pandas • Exploratory Data Analysis**
+
+Analyzed customer shopping data to identify purchasing patterns, customer behavior, product trends, and opportunities for business improvement.
+
+**Key skills demonstrated:** Data cleaning, EDA, segmentation-oriented analysis, visualization, and insight generation.
+
+---
+
+### 🥭 [Blinkit Sales Analysis using Python](https://github.com/ankitt994/Blinkit-Sales-Analysis-using-Python)
+**Python • Pandas • EDA • Data Visualization**
+
+Explored retail sales data to understand sales performance, outlet characteristics, product behavior, and business trends.
+
+**Key skills demonstrated:** Data preparation, exploratory analysis, KPI analysis, visualization, and business interpretation.
+
+---
+
+### 📈 [Excel Sales Analytics](https://github.com/ankitt994/Excel-Sales-Analytics)
+**Excel • Power Query • Pivot Tables • Dashboarding**
+
+Built an interactive Excel dashboard to analyze sales performance and track important business KPIs.
+
+**Key skills demonstrated:** Data cleaning, transformation, pivot-based analysis, KPI reporting, and dashboard design.
+
+---
+
+### 🍕 [Pizza Analytics SQL Project](https://github.com/ankitt994/Pizza-Analytics-SQL-Project)
+**SQL • Data Analysis • Business Questions**
+
+A practical SQL analytics project focused on answering sales and operational questions from transactional data.
+
+**Key skills demonstrated:** Aggregations, joins, date analysis, ranking, and business-focused SQL problem solving.
+
+---
+
+## 📚 SQL & Analytics Practice
+
+- [21 Days SQL Challenge](https://github.com/ankitt994/21-days-sql-challenge)
+- [SQL Murder Mystery](https://github.com/ankitt994/-SQL-Murder-Mystery-Who-Killed-the-CEO-)
+- [Excel VBA Portfolio](https://github.com/ankitt994/excel-vba-portfolio)
+
+These repositories document my continued practice with SQL, automation, and analytical problem solving.
+
+---
+
+## 🎯 What I'm Currently Building
+
+I'm continuously strengthening my Data Analyst toolkit through:
+
+- Advanced SQL and business problem solving
+- Power BI and DAX
+- Advanced Excel and Power Query
+- Python for data analysis
+- REST APIs and data extraction
+- End-to-end portfolio projects using realistic business scenarios
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankittripathiii/)
+- 🌐 [Portfolio](https://ankitt994.github.io/)
+- 🐙 [GitHub](https://github.com/ankitt994)
+
+---
+
+### ⭐ My goal
+
+**To become a strong Data Analyst who can move from raw data → analysis → insights → business decisions.**
