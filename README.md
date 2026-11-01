@@ -41,6 +41,11 @@ I turn raw data into clear analysis, useful dashboards, and business-focused ins
 
 ## 📌 Featured Projects
 
+### 🧪 [Hypothesis Testing: Two-Sample t-Test](https://github.com/ankitt994/hypothesis-test)
+**Python • Pandas • SciPy • Statistics**
+
+A small statistical analysis comparing district literacy rates for STATE21 and STATE28 using Welch’s two-sample t-test. Includes the notebook, HTML export, and dataset. The project documents the test setup and interpretation; it is based on a guided lab.
+
 ### 🌫️ [AQI Confidence Interval Analysis](https://github.com/ankitt994/AQI-Confidence-Interval-Analysis)
 **Python • Pandas • NumPy • Seaborn • SciPy • Statistics**
 
@@ -52,6 +57,8 @@ A learning project exploring Air Quality Index data across six states and applyi
 **Power BI • SQL • DAX • Power Query • Data Modeling**
 
 A business intelligence dashboard covering Finance, Sales, Marketing, and Supply Chain. Focuses on revenue, profitability, market performance, discounts, and supply-chain efficiency.
+
+[Open the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU1YjY5NWQtMTAyNC00Mjk1LThjNmYtZjYzOTcxOGRiMWMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ### 🧮 [AtliQ Hardware Ad-Hoc Analysis](https://github.com/ankitt994/atliq-hardware-ad-hoc-analysis)
 **SQL • Business Analysis**
@@ -88,14 +95,15 @@ Uses SQL to explore transactional sales and answer practical questions about ord
 
 ---
 
-## 📖 What I'm Learning Now
+## 📖 Learning & Recent Progress
 
-- **Statistics for analytics:** distributions, sampling, confidence intervals, hypothesis testing, and Type I / Type II errors.
-- **Python for analysis:** stronger Pandas skills, clean workflows, and reproducible notebooks.
-- **SQL:** faster query writing and solving realistic business problems.
-- **Power BI:** DAX, data modeling, and clear business storytelling.
+- **Completed:** Coursera's Google Advanced Data Analytics course, *The Power of Statistics* (October 2026).
+- **Statistics in practice:** confidence intervals, hypothesis testing, p-values, Type I / Type II errors, and two-sample testing.
+- **Python for analysis:** building stronger Pandas skills, clean workflows, and reproducible notebooks.
+- **SQL:** improving query speed and solving realistic business problems.
+- **Power BI:** continuing to practice DAX, data modeling, and clear business storytelling.
 
-I’m documenting what I learn through projects, visual explanations, and practical analysis—not just listing tools.
+I’m documenting my learning through practical projects and clear explanations—not just listing tools.
 
 ---
 
